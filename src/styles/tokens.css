@@ -1,0 +1,13 @@
+:root {
+    /* Color */
+    --color-white: #ffffff;
+    --color-background: #F7F7FF;
+    --color-black: #000000;
+    --color-purple-light: #A4A7E7;
+    --color-purple-dark: #6B6EDC;
+    --color-body-gradient: linear-gradient(315.46deg, var(--color-purple-dark) 0.77%, var(--color-purple-light) 100%);
+    --color-button-gradient: linear-gradient(315.46deg, var(--color-purple-dark) 0.77%, var(--color-purple-light) 100%);
+
+    /* Font */
+    
+}
